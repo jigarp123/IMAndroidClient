@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\5473ddf581b9cd08103154f5ac3e1432e5d5bdba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_f0a1e1032a4bc24722b47548bf8e1a17ac329507.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_40273ac5720d450cb844b16e9555068581a01309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\e3f467172403c628294d1e161086f1a0d5cbec04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7a4e7bde86328ee9c60e376431f6c73e749cd37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\cab55a3ad646c12497115d8b5a8773fc5657cc11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edd3c8e86bbffca4cc5cec1326b47e0ec428b1a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\e3f467172403c628294d1e161086f1a0d5cbec04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_d7a4e7bde86328ee9c60e376431f6c73e749cd37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\cab55a3ad646c12497115d8b5a8773fc5657cc11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_edd3c8e86bbffca4cc5cec1326b47e0ec428b1a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\674e609369f37e0e3c0400c1bd7c9f2420f68cae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63b9e29f0e97e1560dbec6b1ddf2642a4905fd24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77dd87e883ff5b86180e918c63c67e35aa5b6d11">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cd54c2262d1cda1c7a600410bfe8c98db4996ea9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\common-1.0.0_6b01f7a8d4f0047c3963785db5a462a28590ed53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\6c5bbe1445fc120dd74910178ff8a0a976618d60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fbb4ea2747ca5fb990d9bad4fa249e9992e24ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\95776542a4b4ae3bd56d75ba8906d48b3fea9ca3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_b718f75f11fc0c784a11b823e3a20680b989764c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\674e609369f37e0e3c0400c1bd7c9f2420f68cae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_63b9e29f0e97e1560dbec6b1ddf2642a4905fd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\6c5bbe1445fc120dd74910178ff8a0a976618d60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_5fbb4ea2747ca5fb990d9bad4fa249e9992e24ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\95776542a4b4ae3bd56d75ba8906d48b3fea9ca3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b718f75f11fc0c784a11b823e3a20680b989764c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\11b856d43793d32e47a3f29f7ce9f39bda4fedeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_750ffb399edc9e572185f92b12490f60f9e50670\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\4b35427d62247a812cdb7be43ea69d7321807be0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_1cbbd1072503a2008c81f14756f78f6dffce721f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\common-1.0.0_72b0b67dbd364df95c5bb771a99826574ef3f7cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\4b35427d62247a812cdb7be43ea69d7321807be0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cbbd1072503a2008c81f14756f78f6dffce721f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_72b0b67dbd364df95c5bb771a99826574ef3f7cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\11b856d43793d32e47a3f29f7ce9f39bda4fedeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_750ffb399edc9e572185f92b12490f60f9e50670.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_6b01f7a8d4f0047c3963785db5a462a28590ed53\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\a86dfbe349611e42961658a5a49bdcc3200ec213\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_f97ee3c63326708da17d45fb535cb9da41f29661.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f24cbaf9eb10cb2f5a8f447e9fdfca05f2dfe80f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\8b1883ef6d7db1708669a2a01ecc44adafb7d861\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4542ebed6d0e786ec9a08cb80f13f56053ca86dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\f78d1936f728ad18fa9c1cd2dad7f53cc57e7bc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_f0e7fb938d8ff5091beaca546504e778b5ae7873.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\2e6ec317ab015b036b680a0acf85b329d5f9f7d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d68e1f195f21421bfd0be69f5746def009a36b57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\a86dfbe349611e42961658a5a49bdcc3200ec213\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f97ee3c63326708da17d45fb535cb9da41f29661\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\26863d185a9f01eb2cae6ad9c98ca479608a1c7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_ab8bd85b1a6dcfeef38663d58735404bb94a78f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\f78d1936f728ad18fa9c1cd2dad7f53cc57e7bc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0e7fb938d8ff5091beaca546504e778b5ae7873\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\57a3a3ad387e34d3a6e96281b22bccb90a9b6d1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_b7b9b0166802322695ba3d24410bda753b95cd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_40273ac5720d450cb844b16e9555068581a01309.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\57a3a3ad387e34d3a6e96281b22bccb90a9b6d1d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7b9b0166802322695ba3d24410bda753b95cd51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_f7008973436aa04bad65f2069221052a3051e9fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\26863d185a9f01eb2cae6ad9c98ca479608a1c7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab8bd85b1a6dcfeef38663d58735404bb94a78f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\support-annotations-26.1.0_f7008973436aa04bad65f2069221052a3051e9fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpp40\.android\build-cache\5473ddf581b9cd08103154f5ac3e1432e5d5bdba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0a1e1032a4bc24722b47548bf8e1a17ac329507\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\2e6ec317ab015b036b680a0acf85b329d5f9f7d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_d68e1f195f21421bfd0be69f5746def009a36b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jpp40\.android\build-cache\8b1883ef6d7db1708669a2a01ecc44adafb7d861\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\jpp40\Data\Files\AndroidStudioProjects\InstantMessenger\app\build\intermediates\pre-dexed\release\classes_4542ebed6d0e786ec9a08cb80f13f56053ca86dc.jar" />
+    </item>
+
+</items>
