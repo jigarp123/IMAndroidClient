@@ -1,0 +1,45 @@
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_alignParentStart="true"
+	android:layout_alignParentEnd="true">
+
+	<LinearLayout
+		android:id="@+id/rowLayout"
+		android:layout_width="300dp"
+		android:layout_height="wrap_content"
+		android:layout_alignParentStart="true"
+		android:layout_alignParentTop="true"
+		android:orientation="horizontal">
+
+		<EditText
+			android:id="@+id/name"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="bottom"
+			android:layout_weight="0"
+			android:backgroundTint="@android:color/transparent"
+			android:clickable="false"
+			android:editable="false"
+			android:focusable="false"
+			android:inputType="none"
+			android:text="fffffffffffffffffffffffffffffff"
+			android:textColor="#4286f4"
+			android:maxWidth="100dp"
+			android:textSize="11dp"/>
+
+		<EditText
+			android:id="@+id/message"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="0"
+			android:background="@drawable/messagetextstyle"
+			android:clickable="false"
+			android:editable="false"
+			android:focusable="false"
+			android:inputType="none"
+			android:padding="5dp"
+			android:text="sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf"/>
+	</LinearLayout>
+</RelativeLayout>
